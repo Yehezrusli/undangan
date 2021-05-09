@@ -152,7 +152,7 @@
 
             <div class="row" style='margin-top: 20px'>
                 <div class="col">
-                    <span style='font-size: calc(16px * 0.875); line-height: 0.5;'>
+                    <span style='font-size: calc(16px * 0.875); line-height: 1;'>
                         <center>
                             <p>Pullman Bandung Grand Central<br> </p>
                             <p>No 27 Jalan Diponegoro, Jawa Barat, 40115, Indonesia</p>
@@ -173,7 +173,7 @@
 
             <div class="row" style='margin-top: 40px'>
                 <div class="col">
-                    <span style='font-size: calc(16px * 0.875); line-height: 0.5;'>
+                    <span style='font-size: calc(16px * 0.875); line-height: 1;'>
                         <center>
                             <p>hope you will be able to join us in this virtual ceremony through instagram live</p>
                         </center>

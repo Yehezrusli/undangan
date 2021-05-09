@@ -206,7 +206,7 @@ include("connection.php");
                         <form method="POST" action="holymatrimony.php" class="pt-2">
                             <div class="form-group">
                                 <label for="name">Full Name</label>
-                                <input type="text" class="form-control" id="name" name="name" required style='width:50%'>
+                                <input type="text" class="form-control" id="name" name="name" required style='width:80%'>
                             </div>
                             <button type="submit" name="submit" class="btn btn-primary mt-3">Submit</button>
                         </form>
