@@ -127,7 +127,7 @@ include("connection.php");
 
                                 if ($result->num_rows > 0) {
                                     echo '
-                                        <div class="alert alert-danger" role="alert" style="width:50%">
+                                        <div class="alert alert-danger" role="alert" style="width:80%">
                                             You already registered!
                                         </div>
                                         ';
@@ -135,7 +135,7 @@ include("connection.php");
                                     $insert_tamu = "INSERT INTO Tamu (name) VALUES ('$name')";
                                     if($con->query($insert_tamu)){
                                         echo '
-                                            <div class="alert alert-success" role="alert" style="width:50%">
+                                            <div class="alert alert-success" role="alert" style="width:80%">
                                                 We really greatfull with you attendance
                                             </div>
                                         ';
@@ -194,7 +194,7 @@ include("connection.php");
                     <span>
                         <center>
                             <p class='placetime' style='font-size: 18px'>Due to this pandemic situation, <br> we need to register every guest that will come to our Matrimony to maintain health protocols. </p> 
-                            <p class='placetime' style='font-size: 18px'>If you want to attend our ceremony, <br> please fill you full name in the box bellow.</p>      
+                            <p class='placetime' style='font-size: 18px'>If you want to attend our ceremony, <br> please fill your full name in the box bellow.</p>      
                         </center>
                     </span>
                 </div>
