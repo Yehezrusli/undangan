@@ -193,7 +193,7 @@ include("connection.php");
                 <div class="col">
                     <span>
                         <center>
-                            <p class='placetime' style='font-size: 18px'>Due to this pandemic situation, <br> we need to register every guest that willl come to our Matrimony to maintain health protocols. </p> 
+                            <p class='placetime' style='font-size: 18px'>Due to this pandemic situation, <br> we need to register every guest that will come to our Matrimony to maintain health protocols. </p> 
                             <p class='placetime' style='font-size: 18px'>If you want to attend our ceremony, <br> please fill you full name in the box bellow.</p>      
                         </center>
                     </span>
